@@ -8,3 +8,4 @@ Pratica 06: https://github.com/Bnunes216/Pratica-6.git
 Pratica 07: https://github.com/Bnunes216/Pratica-7.git
 Pratica 08: https://github.com/Bnunes216/Pratica-8.git
 Pratica 09: https://github.com/Bnunes216/Pratica-9.git
+Pratica 10: https://github.com/Bnunes216/Pratica-10.git
