@@ -1,5 +1,5 @@
 # Java_Praticas
-Pratica 01: https://github.com/Bnunes216/Pratica-1---Wesley.git 
+- Pratica 01: https://github.com/Bnunes216/Pratica-1---Wesley.git 
 Pratica 02: https://github.com/Bnunes216/Pratica-2.git
 Pratica 03: https://github.com/Bnunes216/Pratica-3.git
 Pratica 04: https://github.com/Bnunes216/Pratica-4.git
